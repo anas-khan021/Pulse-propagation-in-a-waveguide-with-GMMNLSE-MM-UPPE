@@ -7,8 +7,6 @@ It is useful for simulating single-mode/multimode mode-locking/oscillators, fibe
 
 The code is intended **solely for academic use**, reproducibility, and methodological clarity.
 
-> [!CAUTION]
-> This repository is not under active development, as I finished my postdoc and am leaving academia.
 
 ## Capabilities:
 1. It solves the pulse propagation with
